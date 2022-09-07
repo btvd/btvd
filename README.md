@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Roman</h1>
 
-<h3 align="center">A passionate machine learning engineer</h3>
+<h3 align="center">A passionate data scientist and machine learning engineer</h3>
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 - 💬 Ask me about **python, machine learning**
