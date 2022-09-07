@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate data scientist and machine learning engineer</h3>
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Machine Learning** and **Data Science** projects
 - 💬 Ask me about **python, machine learning**
 - 📫 How to reach me: **roman.belyy@gmail.com**
 - 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/roman-belyy/)
