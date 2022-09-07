@@ -1,8 +1,8 @@
-<h1 align="center">Hi there <img src="https://giphy.com/embed/NsBknNwmmWE8WU1q2U" height="30px">, I'm Roman</h1>
+<h1 align="center">Hi there <img src=""https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Roman</h1>
 
 <h3 align="center">A passionate machine learning engineer</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://giphy.com/embed/NsBknNwmmWE8WU1q2U" width="600" height="300"  /></p>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
