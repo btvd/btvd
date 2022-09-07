@@ -2,9 +2,6 @@
 
 <h3 align="center">A passionate machine learning engineer</h3>
 
-<p align="center"><img src="https://giphy.com/embed/NsBknNwmmWE8WU1q2U" width="600" height="300"  /></p>
-<!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
-
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 - 💬 Ask me about **python, machine learning**
 - 📫 How to reach me: **roman.belyy@gmail.com**
