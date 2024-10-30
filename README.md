@@ -4,7 +4,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning** and **Data Science** projects
 - 💬 Ask me about **python, machine learning**
-- 📫 How to reach me: **roman.belyy@gmail.com**
 - 📄 Know about my experiences on [linkedin.com](https://www.linkedin.com/in/roman-belyy/)
 
 <h3 align="left">Connect with me:</h3>
